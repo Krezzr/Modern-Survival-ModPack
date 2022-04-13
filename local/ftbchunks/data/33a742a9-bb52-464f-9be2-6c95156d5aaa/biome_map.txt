@@ -1,0 +1,6 @@
+#705 minecraft:deep_frozen_ocean
+#292 minecraft:frozen_ocean
+#2D6 minecraft:meadow
+#73A minecraft:old_growth_pine_taiga
+#340 minecraft:snowy_taiga
+#169 minecraft:taiga

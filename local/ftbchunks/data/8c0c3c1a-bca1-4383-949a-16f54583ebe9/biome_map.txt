@@ -1,0 +1,7 @@
+#6C5 byg:aspen_forest
+#010 minecraft:forest
+#2D6 minecraft:meadow
+#3DC minecraft:plains
+#5FF minecraft:river
+#282 byg:twilight_meadow
+#1DB byg:weeping_witch_forest

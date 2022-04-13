@@ -1,0 +1,4 @@
+{
+	// When enabled, the trades of the wandering trader also never lock up.
+	"wanderingTraderInfiniteTrades": true
+}

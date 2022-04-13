@@ -1,0 +1,6 @@
+#47F minecraft:birch_forest
+#010 minecraft:forest
+#79A minecraft:lukewarm_ocean
+#3DC minecraft:plains
+#67B minecraft:savanna
+#774 minecraft:sunflower_plains
