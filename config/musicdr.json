@@ -1,6 +1,6 @@
 {
   "minTime": 0,
-  "maxTime": 30,
+  "maxTime": 5,
   "divide": false,
   "division": 2,
   "experimental": {

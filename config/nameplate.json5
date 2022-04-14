@@ -3,7 +3,7 @@
 	"nameColor": 553648127,
 	"backgroundColor": -1,
 	"backgroundOpacity": 0.4000000059604645,
-	"showHealth": false,
+	"showHealth": true,
 	// Setting if for example WTHIT is installed
 	"showLevel": true,
 	"squaredDistance": 128.0,

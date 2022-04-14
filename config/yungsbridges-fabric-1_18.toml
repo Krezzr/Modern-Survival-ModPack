@@ -2,6 +2,6 @@
 blacklistedBiomes = "[]"
 
 [yungsBridges.spawnRates]
-smallBridges = 2
-mediumBridges = 2
-largeBridges = 2
+smallBridges = 4
+mediumBridges = 4
+largeBridges = 4

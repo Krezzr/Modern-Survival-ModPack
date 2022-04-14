@@ -1,8 +1,8 @@
 generateOres = true
 blacklistedOres = []
 spawnWithGuideBook = true
-respawnWithGuideBook = true
-disableFuelTooltips = false
+respawnWithGuideBook = false
+disableFuelTooltips = true
 disableItemTagTooltips = false
 newVersionMessage = true
 enableHatchPlacementOverlay = true

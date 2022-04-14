@@ -2,7 +2,7 @@
 	// Defines the damage taken every 4 seconds
 	"thirst_damage": 1.0,
 	// Defines speed of dehydration, bigger value = slower depletion
-	"hydrating_factor": 1.5,
+	"hydrating_factor": 3.0,
 	// Defines the rate of the thirst effect's drain, smaller variable = less draining
 	"thirst_effect_factor": 0.032999999821186066,
 	"potion_thirst_quench": 2,
@@ -30,11 +30,11 @@
 	"sleep_hunger_consumption": 2,
 	// in ticks
 	"water_boiling_time": 100,
-	"harder_nether": false,
+	"harder_nether": true,
 	// 1.3 = 30% more thirst
 	"nether_factor": 1.2999999523162842,
 	// Set flask extra water amount
-	"extra_flask_size": 0,
+	"extra_flask_size": 4,
 	// Enables alternate textures by the lead texture artist
 	"other_droplet_texture": false,
 	"hud_x": 0,
