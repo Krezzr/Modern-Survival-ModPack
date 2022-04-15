@@ -13,12 +13,12 @@
   "overlay": {
     "position": {
       "align": {
-        "x": "RIGHT",
-        "y": "BOTTOM"
+        "x": "CENTER",
+        "y": "TOP"
       },
       "anchor": {
-        "x": "RIGHT",
-        "y": "BOTTOM"
+        "x": "CENTER",
+        "y": "TOP"
       },
       "x": 0,
       "y": 0,

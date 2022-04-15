@@ -36,7 +36,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:false
-resourcePacks:["Fabric Mods","minecraft/supporteatinganimation"]
+resourcePacks:["Fabric Mods"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -145,6 +145,7 @@ key_Open sound muffler screen:key.keyboard.unknown
 key_key.fpsdisplay.toggleFpsOverlay:key.keyboard.unknown
 key_fpsreducer.key.openGui:key.keyboard.end
 key_fpsreducer.key.forceIdle:key.keyboard.pause
+key_key.inmis.open_backpack:key.keyboard.b
 key_key.interactic.pickup_item:key.keyboard.unknown
 key_key.inventoryhud.toggle:key.keyboard.i
 key_key.inventoryhud.openconfig:key.keyboard.o
@@ -156,10 +157,13 @@ key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_key.levelz.openskillscreen:key.keyboard.k
 key_key.lightoverlay.enable_overlay:key.keyboard.f7
-key_key.craftpresence.config_keycode.name:key.keyboard.grave.accent
 key_key.modern_industrialization.activate:key.keyboard.v
+key_key.craftpresence.config_keycode.name:key.keyboard.grave.accent
 key_key.nameplate.shownameplate:key.keyboard.keypad.add
 key_key.notes.open_notes_menu:key.keyboard.n
+key_key.origins.primary_active:key.keyboard.g
+key_key.origins.secondary_active:key.keyboard.unknown
+key_key.origins.view_origin:key.keyboard.o
 key_key.trinketshulkerboxes.open.desc:key.keyboard.b
 key_key.wildfire_gender.gender_menu:key.keyboard.g
 key_key.waila.config:key.keyboard.keypad.0
@@ -168,7 +172,7 @@ key_key.waila.toggle_liquid:key.keyboard.keypad.2
 key_key.waila.show_recipe_input:key.keyboard.keypad.3
 key_key.waila.show_recipe_output:key.keyboard.keypad.4
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.15492958
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
